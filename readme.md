@@ -1,6 +1,6 @@
-# coolie-html-attr-resource
+# coolie-mid-attr-resource
 
-visit <https://coolie.ydr.me/middleware/coolie-html-attr-resource/>
+visit <https://coolie.ydr.me/middleware/coolie-mid-attr-resource/>
 
 
 
