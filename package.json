@@ -1,6 +1,6 @@
 {
-  "name": "coolie-mid-html-attr-resource",
-  "version": "1.0.1",
+  "name": "coolie-mid-attr-resource",
+  "version": "1.0.2",
   "description": "coolie 构建中间件：html 非标准属性资源",
   "scripts": {},
   "preferGlobal": false,
