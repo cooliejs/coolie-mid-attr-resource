@@ -2,9 +2,7 @@
   "name": "coolie-mid-html-attr-resource",
   "version": "1.0.1",
   "description": "coolie 构建中间件：html 非标准属性资源",
-  "scripts": {
-    "test": "node node_modules/mocha/bin/mocha -c --recursive --ui bdd test -t 0"
-  },
+  "scripts": {},
   "preferGlobal": false,
   "bin": {},
   "engines": {
@@ -25,13 +23,13 @@
     "url": "http://ydr.me"
   },
   "contributors": [],
-  "homepage": "https://github.com/cooliejs/coolie-html-attr-resource",
+  "homepage": "https://coolie.ydr.me/middleware/coolie-mid-attr-resource",
   "repository": {
     "type": "git",
-    "url": "https://github.com/cooliejs/coolie-html-attr-resource"
+    "url": "https://github.com/cooliejs/coolie-mid-attr-resource"
   },
   "bugs": {
-    "url": "https://github.com/cooliejs/coolie-html-attr-resource/issues"
+    "url": "https://github.com/cooliejs/coolie-mid-attr-resource/issues"
   },
   "dependencies": {
     "blear.utils.object": "^1.0.14"
