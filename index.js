@@ -21,7 +21,7 @@ var COOLIE_IGNORE = 'coolieignore';
 module.exports = function (configs) {
     configs = object.assign({}, defaults, configs);
 
-    var mid = function (options) {
+    return function (options) {
         if (options.progress !== configs.progress) {
             return options;
         }
@@ -49,9 +49,7 @@ module.exports = function (configs) {
 
         return options;
     };
-
-    mid.package = pkg;
-    return mid;
 };
 
+module.exports.package = pkg;
 module.exports.defaults = defaults;
